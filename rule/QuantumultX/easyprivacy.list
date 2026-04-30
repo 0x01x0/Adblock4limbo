@@ -1,9 +1,9 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202603311553
+## ! Version: 202604301514
 ## ! Title: EasyPrivacy
-## ! Last modified: 31 Mar 2026 15:53 UTC
+## ! Last modified: 30 Apr 2026 15:14 UTC
 ## ! Expires: 4 days (update frequency)
-## ! Commit: 827a64d5c75862f4616742b1e4c17b902ffa219a
+## ! Commit: 94060b9eb7a9c5ed0da2ca990a3aab945f502227
 ## ! *** easylist:template_header.txt ***
 ## ! 
 ## ! Please report any unblocked adverts or problems
@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,acsbapp.com, reject
 DOMAIN-SUFFIX,adcontroll.com, reject
 DOMAIN-SUFFIX,aditude.cloud, reject
 DOMAIN-SUFFIX,admaxium.com, reject
+DOMAIN-SUFFIX,admediasales.com, reject
 DOMAIN-SUFFIX,admetrics.events, reject
 DOMAIN-SUFFIX,adnext.co, reject
 DOMAIN-SUFFIX,adrsbl.io, reject
@@ -47,6 +48,7 @@ DOMAIN-SUFFIX,adsmeasurement.com, reject
 DOMAIN-SUFFIX,adspsp.com, reject
 DOMAIN-SUFFIX,adstk.io, reject
 DOMAIN-SUFFIX,adultium.com, reject
+DOMAIN-SUFFIX,advertease.store, reject
 DOMAIN-SUFFIX,afrdtech.com, reject
 DOMAIN-SUFFIX,aftership-pixel.com, reject
 DOMAIN-SUFFIX,aggle.net, reject
@@ -67,6 +69,7 @@ DOMAIN-SUFFIX,as3.io, reject
 DOMAIN-SUFFIX,aseads.com, reject
 DOMAIN-SUFFIX,astarsbuilding.com, reject
 DOMAIN-SUFFIX,atmtd.com, reject
+DOMAIN-SUFFIX,audiencetrk.com, reject
 DOMAIN-SUFFIX,australiarevival.com, reject
 DOMAIN-SUFFIX,avads.net, reject
 DOMAIN-SUFFIX,awmonitor.com, reject
@@ -89,6 +92,7 @@ DOMAIN-SUFFIX,briskeagle.io, reject
 DOMAIN-SUFFIX,briskpelican.io, reject
 DOMAIN-SUFFIX,broadstreet.ai, reject
 DOMAIN-SUFFIX,brwsrfrm.com, reject
+DOMAIN-SUFFIX,btldr.net, reject
 DOMAIN-SUFFIX,btloader.com, reject
 DOMAIN-SUFFIX,bx-cloud.com, reject
 DOMAIN-SUFFIX,bxtag.com, reject
@@ -119,6 +123,7 @@ DOMAIN-SUFFIX,cntxtfl.com, reject
 DOMAIN-SUFFIX,confiant-integrations.net, reject
 DOMAIN-SUFFIX,convead.io, reject
 DOMAIN-SUFFIX,convertlink.com, reject
+DOMAIN-SUFFIX,coolretargeting.com, reject
 DOMAIN-SUFFIX,counter247.live, reject
 DOMAIN-SUFFIX,cpx.to, reject
 DOMAIN-SUFFIX,cr-relay.com, reject
@@ -149,6 +154,7 @@ DOMAIN-SUFFIX,dspx.tv, reject
 DOMAIN-SUFFIX,dttrk.com, reject
 DOMAIN-SUFFIX,dwin1.com, reject
 DOMAIN-SUFFIX,dwin2.com, reject
+DOMAIN-SUFFIX,e-ads.com, reject
 DOMAIN-SUFFIX,e1e.io, reject
 DOMAIN-SUFFIX,eagle-insight.com, reject
 DOMAIN-SUFFIX,ecn-ldr.de, reject
@@ -292,6 +298,7 @@ DOMAIN-SUFFIX,lltrck.com, reject
 DOMAIN-SUFFIX,lmepbq.com, reject
 DOMAIN-SUFFIX,log.dance, reject
 DOMAIN-SUFFIX,logicanalytics.io, reject
+DOMAIN-SUFFIX,logstracker.com, reject
 DOMAIN-SUFFIX,logtail.com, reject
 DOMAIN-SUFFIX,loopcybersec.com, reject
 DOMAIN-SUFFIX,lordofthesuperfrogs.com, reject
@@ -301,6 +308,7 @@ DOMAIN-SUFFIX,lyfnh.io, reject
 DOMAIN-SUFFIX,maggieeatstheangel.com, reject
 DOMAIN-SUFFIX,mapixl.com, reject
 DOMAIN-SUFFIX,markadver.com, reject
+DOMAIN-SUFFIX,match2one.net, reject
 DOMAIN-SUFFIX,matheranalytics.com, reject
 DOMAIN-SUFFIX,mathilde-ads.com, reject
 DOMAIN-SUFFIX,matomo3.org, reject
@@ -312,6 +320,7 @@ DOMAIN-SUFFIX,mcangelus.com, reject
 DOMAIN-SUFFIX,mdhv.io, reject
 DOMAIN-SUFFIX,mdstats.info, reject
 DOMAIN-SUFFIX,measureadv.com, reject
+DOMAIN-SUFFIX,media-analytic.com, reject
 DOMAIN-SUFFIX,mediamathrdrt.com, reject
 DOMAIN-SUFFIX,michiganrobotflower.com, reject
 DOMAIN-SUFFIX,minstats.xyz, reject
@@ -326,11 +335,14 @@ DOMAIN-SUFFIX,mobildev.in, reject
 DOMAIN-SUFFIX,monicaatron.com, reject
 DOMAIN-SUFFIX,mors22.com, reject
 DOMAIN-SUFFIX,motu-teamblue.services, reject
+DOMAIN-SUFFIX,mpstech.space, reject
 DOMAIN-SUFFIX,mrpdata.net, reject
+DOMAIN-SUFFIX,msfunction.online, reject
 DOMAIN-SUFFIX,mt48.net, reject
 DOMAIN-SUFFIX,mxradon.com, reject
 DOMAIN-SUFFIX,myangular.life, reject
 DOMAIN-SUFFIX,mysingleromance.com, reject
+DOMAIN-SUFFIX,narrativ.com, reject
 DOMAIN-SUFFIX,native-track.com, reject
 DOMAIN-SUFFIX,niblewren.co, reject
 DOMAIN-SUFFIX,nigelmidnightrappers.com, reject
@@ -371,8 +383,11 @@ DOMAIN-SUFFIX,prfct.co, reject
 DOMAIN-SUFFIX,procroanalytics.com, reject
 DOMAIN-SUFFIX,proftrafficcounter.com, reject
 DOMAIN-SUFFIX,progmxs.com, reject
+DOMAIN-SUFFIX,protechts.net, reject
+DOMAIN-SUFFIX,purcartz.com, reject
 DOMAIN-SUFFIX,purple-hit.com, reject
 DOMAIN-SUFFIX,pushvisit.xyz, reject
+DOMAIN-SUFFIX,pxlnow.in, reject
 DOMAIN-SUFFIX,pxlstat.com, reject
 DOMAIN-SUFFIX,pzapi-ij.com, reject
 DOMAIN-SUFFIX,pzapi-kg.com, reject
@@ -385,12 +400,14 @@ DOMAIN-SUFFIX,r42tag.com, reject
 DOMAIN-SUFFIX,raac33.net, reject
 DOMAIN-SUFFIX,rapidpanda.io, reject
 DOMAIN-SUFFIX,rapidzebra.io, reject
+DOMAIN-SUFFIX,re-ads.com, reject
 DOMAIN-SUFFIX,realtimely.io, reject
 DOMAIN-SUFFIX,reportic.app, reject
 DOMAIN-SUFFIX,rezync.com, reject
 DOMAIN-SUFFIX,rfpx1.com, reject
 DOMAIN-SUFFIX,rkdms.com, reject
 DOMAIN-SUFFIX,robotflowermobile.com, reject
+DOMAIN-SUFFIX,rt-pixel.com, reject
 DOMAIN-SUFFIX,rtactivate.com, reject
 DOMAIN-SUFFIX,rtgvwr.com, reject
 DOMAIN-SUFFIX,rtmscl.com, reject
@@ -409,12 +426,14 @@ DOMAIN-SUFFIX,sgmntfy.com, reject
 DOMAIN-SUFFIX,sgstats.com, reject
 DOMAIN-SUFFIX,shdid.me, reject
 DOMAIN-SUFFIX,shgcdn3.com, reject
+DOMAIN-SUFFIX,shop-cart.app, reject
 DOMAIN-SUFFIX,site24x7rum.eu, reject
 DOMAIN-SUFFIX,sitecounter.site, reject
 DOMAIN-SUFFIX,sitedataprocessing.com, reject
 DOMAIN-SUFFIX,siteperformancetest.net, reject
 DOMAIN-SUFFIX,sjpf.io, reject
 DOMAIN-SUFFIX,skcrtxr.com, reject
+DOMAIN-SUFFIX,smartiwheel.com, reject
 DOMAIN-SUFFIX,smartmetrics.co.uk, reject
 DOMAIN-SUFFIX,smartytouch.co, reject
 DOMAIN-SUFFIX,snptrk.com, reject
@@ -429,6 +448,7 @@ DOMAIN-SUFFIX,srmdata-eur.com, reject
 DOMAIN-SUFFIX,srvgl.com, reject
 DOMAIN-SUFFIX,ssevt.com, reject
 DOMAIN-SUFFIX,stack-sonar.com, reject
+DOMAIN-SUFFIX,stalkoda.com, reject
 DOMAIN-SUFFIX,stat.ovh, reject
 DOMAIN-SUFFIX,statisticplatform.com, reject
 DOMAIN-SUFFIX,statisticsplatform.com, reject
@@ -452,6 +472,7 @@ DOMAIN-SUFFIX,tkrconnector.com, reject
 DOMAIN-SUFFIX,tncid.app, reject
 DOMAIN-SUFFIX,track-selectmedia.com, reject
 DOMAIN-SUFFIX,trackclicks.info, reject
+DOMAIN-SUFFIX,trackier.com, reject
 DOMAIN-SUFFIX,tracking24.net, reject
 DOMAIN-SUFFIX,trakle01.online, reject
 DOMAIN-SUFFIX,transmapp.com, reject
@@ -524,7 +545,6 @@ DOMAIN-SUFFIX,35.194.26.233, reject
 DOMAIN-SUFFIX,35.239.57.233, reject
 DOMAIN-SUFFIX,45.32.105.134, reject
 DOMAIN-SUFFIX,77.162.125.199, reject
-DOMAIN-SUFFIX,acbp0020171456.page.tl, reject
 DOMAIN-SUFFIX,adless.io, reject
 DOMAIN-SUFFIX,adminer.com, reject
 DOMAIN-SUFFIX,analytics.blue, reject
@@ -578,6 +598,7 @@ DOMAIN-SUFFIX,abstractedamount.com, reject
 DOMAIN-SUFFIX,abstractedauthority.com, reject
 DOMAIN-SUFFIX,absurdapple.com, reject
 DOMAIN-SUFFIX,abundantcoin.com, reject
+DOMAIN-SUFFIX,accountgram.com, reject
 DOMAIN-SUFFIX,accountsdoor.com, reject
 DOMAIN-SUFFIX,accurateanimal.com, reject
 DOMAIN-SUFFIX,accuratecoal.com, reject
@@ -632,6 +653,7 @@ DOMAIN-SUFFIX,ambiguousdinosaurs.com, reject
 DOMAIN-SUFFIX,ambiguousincome.com, reject
 DOMAIN-SUFFIX,ambrosialsummit.com, reject
 DOMAIN-SUFFIX,amethystzenith.com, reject
+DOMAIN-SUFFIX,amidsttruly.com, reject
 DOMAIN-SUFFIX,amuckafternoon.com, reject
 DOMAIN-SUFFIX,amusedbucket.com, reject
 DOMAIN-SUFFIX,amusementmorning.com, reject
@@ -672,6 +694,7 @@ DOMAIN-SUFFIX,axiomaticanger.com, reject
 DOMAIN-SUFFIX,azuremystique.com, reject
 DOMAIN-SUFFIX,azurestealth.com, reject
 DOMAIN-SUFFIX,babyblissgifts.com, reject
+DOMAIN-SUFFIX,backtension.com, reject
 DOMAIN-SUFFIX,backupcat.com, reject
 DOMAIN-SUFFIX,baconbags.com, reject
 DOMAIN-SUFFIX,badgeboat.com, reject
@@ -712,6 +735,7 @@ DOMAIN-SUFFIX,bewilderedblade.com, reject
 DOMAIN-SUFFIX,bhcumsc.com, reject
 DOMAIN-SUFFIX,bidpapers.com, reject
 DOMAIN-SUFFIX,bigfishapparel.com, reject
+DOMAIN-SUFFIX,biggerbling.com, reject
 DOMAIN-SUFFIX,bigworldfashion.com, reject
 DOMAIN-SUFFIX,bikepaws.com, reject
 DOMAIN-SUFFIX,bikesboard.com, reject
@@ -878,6 +902,7 @@ DOMAIN-SUFFIX,chessquery.com, reject
 DOMAIN-SUFFIX,childlikecrowd.com, reject
 DOMAIN-SUFFIX,childlikeexample.com, reject
 DOMAIN-SUFFIX,childlikeform.com, reject
+DOMAIN-SUFFIX,chillingtofu.com, reject
 DOMAIN-SUFFIX,chingovernment.com, reject
 DOMAIN-SUFFIX,chipperisle.com, reject
 DOMAIN-SUFFIX,chivalrouscord.com, reject
@@ -894,7 +919,6 @@ DOMAIN-SUFFIX,cleanhaircut.com, reject
 DOMAIN-SUFFIX,climbingright.com, reject
 DOMAIN-SUFFIX,cloisteredcurve.com, reject
 DOMAIN-SUFFIX,cloudchickens.com, reject
-DOMAIN-SUFFIX,cloudguppy.com, reject
 DOMAIN-SUFFIX,cloudhustles.com, reject
 DOMAIN-SUFFIX,cloudjumbo.com, reject
 DOMAIN-SUFFIX,clumsycar.com, reject
@@ -1140,6 +1164,7 @@ DOMAIN-SUFFIX,encouragingthread.com, reject
 DOMAIN-SUFFIX,endurablebulb.com, reject
 DOMAIN-SUFFIX,energeticexample.com, reject
 DOMAIN-SUFFIX,energeticladybug.com, reject
+DOMAIN-SUFFIX,energyfools.com, reject
 DOMAIN-SUFFIX,engineertrick.com, reject
 DOMAIN-SUFFIX,enigmaprint.com, reject
 DOMAIN-SUFFIX,enigmaticcanyon.com, reject
@@ -1188,6 +1213,7 @@ DOMAIN-SUFFIX,fairygaze.com, reject
 DOMAIN-SUFFIX,fairytaleflame.com, reject
 DOMAIN-SUFFIX,faithrowold.com, reject
 DOMAIN-SUFFIX,fakedisguise.com, reject
+DOMAIN-SUFFIX,fakeschool.com, reject
 DOMAIN-SUFFIX,fallaciousfifth.com, reject
 DOMAIN-SUFFIX,fallingshoals.com, reject
 DOMAIN-SUFFIX,falseframe.com, reject
@@ -1217,6 +1243,7 @@ DOMAIN-SUFFIX,featherstage.com, reject
 DOMAIN-SUFFIX,feeblestamp.com, reject
 DOMAIN-SUFFIX,feedandpurr.com, reject
 DOMAIN-SUFFIX,feedten.com, reject
+DOMAIN-SUFFIX,feelwarmth.com, reject
 DOMAIN-SUFFIX,feignedfaucet.com, reject
 DOMAIN-SUFFIX,femalecook.com, reject
 DOMAIN-SUFFIX,fencesync.com, reject
@@ -1331,6 +1358,7 @@ DOMAIN-SUFFIX,ghostgenie.com, reject
 DOMAIN-SUFFIX,gianthypes.com, reject
 DOMAIN-SUFFIX,giantsvessel.com, reject
 DOMAIN-SUFFIX,giddycoat.com, reject
+DOMAIN-SUFFIX,giftclothings.com, reject
 DOMAIN-SUFFIX,gigkarma.com, reject
 DOMAIN-SUFFIX,giraffepiano.com, reject
 DOMAIN-SUFFIX,gitcrumbs.com, reject
@@ -1464,6 +1492,7 @@ DOMAIN-SUFFIX,hurtgrape.com, reject
 DOMAIN-SUFFIX,hustlercoach.com, reject
 DOMAIN-SUFFIX,hybridburst.com, reject
 DOMAIN-SUFFIX,hydraconcept.com, reject
+DOMAIN-SUFFIX,hypercarart.com, reject
 DOMAIN-SUFFIX,hyperlegend.com, reject
 DOMAIN-SUFFIX,hypnoticwound.com, reject
 DOMAIN-SUFFIX,hystericalcloth.com, reject
@@ -1500,7 +1529,7 @@ DOMAIN-SUFFIX,intentlens.com, reject
 DOMAIN-SUFFIX,internalcondition.com, reject
 DOMAIN-SUFFIX,internalsink.com, reject
 DOMAIN-SUFFIX,intricateberry.com, reject
-DOMAIN-SUFFIX,inventorycache.com, reject
+DOMAIN-SUFFIX,introjava.com, reject
 DOMAIN-SUFFIX,inventtango.com, reject
 DOMAIN-SUFFIX,invoicetick.com, reject
 DOMAIN-SUFFIX,iotapool.com, reject
@@ -1551,7 +1580,6 @@ DOMAIN-SUFFIX,keenquill.com, reject
 DOMAIN-SUFFIX,kernellife.com, reject
 DOMAIN-SUFFIX,kidpowers.com, reject
 DOMAIN-SUFFIX,kindasingle.com, reject
-DOMAIN-SUFFIX,kindhush.com, reject
 DOMAIN-SUFFIX,kindlereunion.com, reject
 DOMAIN-SUFFIX,kitetuning.com, reject
 DOMAIN-SUFFIX,kittentacos.com, reject
@@ -1780,6 +1808,7 @@ DOMAIN-SUFFIX,niftyjelly.com, reject
 DOMAIN-SUFFIX,nightwound.com, reject
 DOMAIN-SUFFIX,nimbleplot.com, reject
 DOMAIN-SUFFIX,noblecables.com, reject
+DOMAIN-SUFFIX,noblefellow.com, reject
 DOMAIN-SUFFIX,nodenotify.com, reject
 DOMAIN-SUFFIX,nodethisweek.com, reject
 DOMAIN-SUFFIX,noiselessplough.com, reject
@@ -1809,7 +1838,6 @@ DOMAIN-SUFFIX,oblivionfleet.com, reject
 DOMAIN-SUFFIX,obscenesidewalk.com, reject
 DOMAIN-SUFFIX,obscurespace.com, reject
 DOMAIN-SUFFIX,obsidiangems.com, reject
-DOMAIN-SUFFIX,oceancloudhosts.com, reject
 DOMAIN-SUFFIX,octaneblood.com, reject
 DOMAIN-SUFFIX,offerniche.com, reject
 DOMAIN-SUFFIX,offgridcrops.com, reject
@@ -1874,6 +1902,7 @@ DOMAIN-SUFFIX,passivepolo.com, reject
 DOMAIN-SUFFIX,pastoralroad.com, reject
 DOMAIN-SUFFIX,pawsnug.com, reject
 DOMAIN-SUFFIX,peacefullimit.com, reject
+DOMAIN-SUFFIX,pearpouch.com, reject
 DOMAIN-SUFFIX,pedropanther.com, reject
 DOMAIN-SUFFIX,peeringhost.net, reject
 DOMAIN-SUFFIX,pegsbuttons.com, reject
@@ -2556,6 +2585,7 @@ DOMAIN-SUFFIX,tortoisepage.com, reject
 DOMAIN-SUFFIX,touristfuel.com, reject
 DOMAIN-SUFFIX,toysbasics.com, reject
 DOMAIN-SUFFIX,toytakeover.com, reject
+DOMAIN-SUFFIX,tracecontent.com, reject
 DOMAIN-SUFFIX,traderbyte.com, reject
 DOMAIN-SUFFIX,tradetooth.com, reject
 DOMAIN-SUFFIX,tranquilcan.com, reject
@@ -2701,6 +2731,7 @@ DOMAIN-SUFFIX,wikiquotations.com, reject
 DOMAIN-SUFFIX,wikiwhatwhere.com, reject
 DOMAIN-SUFFIX,wildcommittee.com, reject
 DOMAIN-SUFFIX,wildwoodavenue.com, reject
+DOMAIN-SUFFIX,windbeetle.com, reject
 DOMAIN-SUFFIX,wirecomic.com, reject
 DOMAIN-SUFFIX,wiredforcoffee.com, reject
 DOMAIN-SUFFIX,wirenewsletter.com, reject
@@ -2708,8 +2739,10 @@ DOMAIN-SUFFIX,wirypaste.com, reject
 DOMAIN-SUFFIX,wisedotcom.com, reject
 DOMAIN-SUFFIX,wispycity.com, reject
 DOMAIN-SUFFIX,wistfulwaste.com, reject
+DOMAIN-SUFFIX,withsounds.com, reject
 DOMAIN-SUFFIX,wittypopcorn.com, reject
 DOMAIN-SUFFIX,wizardbuck.com, reject
+DOMAIN-SUFFIX,wizardstrategy.com, reject
 DOMAIN-SUFFIX,wondermakings.com, reject
 DOMAIN-SUFFIX,wordchip.com, reject
 DOMAIN-SUFFIX,workhorsefunds.com, reject
@@ -2723,6 +2756,7 @@ DOMAIN-SUFFIX,wrapstretch.com, reject
 DOMAIN-SUFFIX,wretchedfloor.com, reject
 DOMAIN-SUFFIX,writerhubs.com, reject
 DOMAIN-SUFFIX,writewealth.com, reject
+DOMAIN-SUFFIX,writingcalls.com, reject
 DOMAIN-SUFFIX,wrongpotato.com, reject
 DOMAIN-SUFFIX,wrongwound.com, reject
 DOMAIN-SUFFIX,wtaccesscontrol.com, reject
@@ -2757,6 +2791,7 @@ DOMAIN-SUFFIX,fpjscdn.net, reject
 DOMAIN-SUFFIX,analytics.rechtslupe.org, reject
 DOMAIN-SUFFIX,durchsichtig.xyz, reject
 DOMAIN-SUFFIX,tracking.wlscripts.net, reject
+DOMAIN-SUFFIX,leadsandmore.go2cloud.org, reject
 DOMAIN-SUFFIX,naanalle.pl, reject
 DOMAIN-SUFFIX,1558334541.rsc.cdn77.org, reject
 DOMAIN-SUFFIX,3j0pw4ed7uac-a.akamaihd.net, reject
@@ -2783,6 +2818,7 @@ DOMAIN-SUFFIX,ads-trk.vidible.tv, reject
 DOMAIN-SUFFIX,adv-analytics-collector.videograph.ai, reject
 DOMAIN-SUFFIX,affiliate-api.raptive.com, reject
 DOMAIN-SUFFIX,affiliates.minglematch.com, reject
+DOMAIN-SUFFIX,aim-tag.hcn.health, reject
 DOMAIN-SUFFIX,akatracking.esearchvision.com, reject
 DOMAIN-SUFFIX,alexandria.marfeelcdn.com, reject
 DOMAIN-SUFFIX,alib.nine.com.au, reject
@@ -2804,6 +2840,7 @@ DOMAIN-SUFFIX,analytics-cf.bigcrunch.com, reject
 DOMAIN-SUFFIX,analytics-cms.whitebeard.me, reject
 DOMAIN-SUFFIX,analytics-consent-manager-v2-prod.azureedge.net, reject
 DOMAIN-SUFFIX,analytics-fe.digital-cloud-prem.medallia.com, reject
+DOMAIN-SUFFIX,analytics-fe.digital-cloud.medallia.ca, reject
 DOMAIN-SUFFIX,analytics-fe.digital-cloud.medallia.com, reject
 DOMAIN-SUFFIX,analytics-ipv6.tiktokw.us, reject
 DOMAIN-SUFFIX,analytics-prd.aws.wehaa.net, reject
@@ -2952,6 +2989,7 @@ DOMAIN-SUFFIX,analytics1.vdo.ai, reject
 DOMAIN-SUFFIX,analyticsehnwe.servicebus.windows.net, reject
 DOMAIN-SUFFIX,analyticsplusdev.clientify.net, reject
 DOMAIN-SUFFIX,analyticssec.overwolf.com, reject
+DOMAIN-SUFFIX,analyze-82dfgsi2.m-w.com, reject
 DOMAIN-SUFFIX,ao-freegeoip.herokuapp.com, reject
 DOMAIN-SUFFIX,ape-tagit.timeinc.net, reject
 DOMAIN-SUFFIX,api-analytics-prd.pelcro.com, reject
@@ -2975,6 +3013,7 @@ DOMAIN-SUFFIX,audience.newscgp.com, reject
 DOMAIN-SUFFIX,audit.303br.net, reject
 DOMAIN-SUFFIX,audit.median.hu, reject
 DOMAIN-SUFFIX,aurora-d3.herokuapp.com, reject
+DOMAIN-SUFFIX,aux-log.bidmatic.io, reject
 DOMAIN-SUFFIX,awaps.yandex.net, reject
 DOMAIN-SUFFIX,ax.babe.today, reject
 DOMAIN-SUFFIX,axislogger.appspot.com, reject
@@ -3024,6 +3063,8 @@ DOMAIN-SUFFIX,buffet.identityservices.io, reject
 DOMAIN-SUFFIX,bundle.9gtb.com, reject
 DOMAIN-SUFFIX,bundle.dyn-rev.app, reject
 DOMAIN-SUFFIX,bundle.ppas.monster, reject
+DOMAIN-SUFFIX,bzr.openai.com, reject
+DOMAIN-SUFFIX,bzrcdn.openai.com, reject
 DOMAIN-SUFFIX,c.albss.com, reject
 DOMAIN-SUFFIX,c.amazinglybrilliant.com.au, reject
 DOMAIN-SUFFIX,c.bazo.io, reject
@@ -3042,6 +3083,7 @@ DOMAIN-SUFFIX,capture-api.ap3prod.com, reject
 DOMAIN-SUFFIX,capture.condenastdigital.com, reject
 DOMAIN-SUFFIX,caspionlog.appspot.com, reject
 DOMAIN-SUFFIX,castify-trk.playitviral.com, reject
+DOMAIN-SUFFIX,cbso.uk.net, reject
 DOMAIN-SUFFIX,cc.swiftype.com, reject
 DOMAIN-SUFFIX,ccexperimentsstatic.oracleoutsourcing.com, reject
 DOMAIN-SUFFIX,cdn-a.raptor.digital, reject
@@ -3055,12 +3097,12 @@ DOMAIN-SUFFIX,cdns.brsrvr.com, reject
 DOMAIN-SUFFIX,cf-pixelfront-analytics.widencdn.net, reject
 DOMAIN-SUFFIX,cf.api.instant.one, reject
 DOMAIN-SUFFIX,cf.overblog.com, reject
+DOMAIN-SUFFIX,cfapi.upstackdata.io, reject
 DOMAIN-SUFFIX,cgicounter.oneandone.co.uk, reject
 DOMAIN-SUFFIX,cgicounter.puretec.de, reject
 DOMAIN-SUFFIX,chanalytics.merchantadvantage.com, reject
 DOMAIN-SUFFIX,cimage.adobe.com, reject
 DOMAIN-SUFFIX,ck.connatix.com, reject
-DOMAIN-SUFFIX,cl-pbr.cxr.skeepers.io, reject
 DOMAIN-SUFFIX,click.appinthestore.com, reject
 DOMAIN-SUFFIX,click.rypr.ru, reject
 DOMAIN-SUFFIX,click360v2-ingest.azurewebsites.net, reject
@@ -3125,6 +3167,7 @@ DOMAIN-SUFFIX,count.carrierzone.com, reject
 DOMAIN-SUFFIX,count.me.uk, reject
 DOMAIN-SUFFIX,count.paycounter.com, reject
 DOMAIN-SUFFIX,count.xxxssk.com, reject
+DOMAIN-SUFFIX,counter-growthbook.minute-ly.com, reject
 DOMAIN-SUFFIX,counter.bloke.com, reject
 DOMAIN-SUFFIX,counter.cam-content.com, reject
 DOMAIN-SUFFIX,counter.hyipexplorer.com, reject
@@ -3200,6 +3243,7 @@ DOMAIN-SUFFIX,doppler-beacon.cbsivideo.com, reject
 DOMAIN-SUFFIX,doppler-client-events.cbsivideo.com, reject
 DOMAIN-SUFFIX,doppler-config.cbsivideo.com, reject
 DOMAIN-SUFFIX,doppler-reporting.cbsivideo.com, reject
+DOMAIN-SUFFIX,doubleclick.uk.net, reject
 DOMAIN-SUFFIX,dx.mountain.com, reject
 DOMAIN-SUFFIX,dynamic.ziftsolutions.com, reject
 DOMAIN-SUFFIX,e.channelexco.com, reject
@@ -3217,6 +3261,7 @@ DOMAIN-SUFFIX,eq.userneeds.com, reject
 DOMAIN-SUFFIX,era.easyvoyage.com, reject
 DOMAIN-SUFFIX,error-analytics-production.shopifysvc.com, reject
 DOMAIN-SUFFIX,error-analytics-sessions-production.shopifysvc.com, reject
+DOMAIN-SUFFIX,error-tracker.pages.dev, reject
 DOMAIN-SUFFIX,errors.snackly.co, reject
 DOMAIN-SUFFIX,essential-apps-analytics.herokuapp.com, reject
 DOMAIN-SUFFIX,et.educationdynamics.com, reject
@@ -3340,6 +3385,7 @@ DOMAIN-SUFFIX,gw.conversionsapigateway.com, reject
 DOMAIN-SUFFIX,happen.spkt.io, reject
 DOMAIN-SUFFIX,harvest.graindata.com, reject
 DOMAIN-SUFFIX,hb.vhsrv.com, reject
+DOMAIN-SUFFIX,heartbeat-pearl.vercel.app, reject
 DOMAIN-SUFFIX,helix.bitformations.ca, reject
 DOMAIN-SUFFIX,hello.staticstuff.net, reject
 DOMAIN-SUFFIX,hi.hellobar.com, reject
@@ -3376,7 +3422,6 @@ DOMAIN-SUFFIX,insitez.blob.core.windows.net, reject
 DOMAIN-SUFFIX,intake-analytics.wikimedia.org, reject
 DOMAIN-SUFFIX,invite.leanlab.co, reject
 DOMAIN-SUFFIX,invitejs.trustpilot.com, reject
-DOMAIN-SUFFIX,ip-check-perf.radar.cloudflare.com, reject
 DOMAIN-SUFFIX,ip.lovely-app.com, reject
 DOMAIN-SUFFIX,ip.momentummedia.com.au, reject
 DOMAIN-SUFFIX,iq.sixaxisllc.com, reject
@@ -3519,6 +3564,7 @@ DOMAIN-SUFFIX,olytics.omeda.com, reject
 DOMAIN-SUFFIX,onelinksmartscript.appsflyer.com, reject
 DOMAIN-SUFFIX,onelinksmartscript.appsflyersdk.com, reject
 DOMAIN-SUFFIX,onespot-tracking.herokuapp.com, reject
+DOMAIN-SUFFIX,onsitestats.bluecore.com, reject
 DOMAIN-SUFFIX,oply.hearstapps.com, reject
 DOMAIN-SUFFIX,optimeeze.appspot.com, reject
 DOMAIN-SUFFIX,p.cquotient.com, reject
@@ -3600,6 +3646,7 @@ DOMAIN-SUFFIX,pr.blogflux.com, reject
 DOMAIN-SUFFIX,prd-collector-anon.ex.co, reject
 DOMAIN-SUFFIX,prd-collector-platform.ex.co, reject
 DOMAIN-SUFFIX,prf.vagnt.com, reject
+DOMAIN-SUFFIX,privacy-analytics-proxy.cookiebot.com, reject
 DOMAIN-SUFFIX,privacy.outdoorsg.com, reject
 DOMAIN-SUFFIX,processor.asccommunications.com, reject
 DOMAIN-SUFFIX,prod.ew.srp.navigacloud.com, reject
@@ -3649,6 +3696,7 @@ DOMAIN-SUFFIX,res.rbl.ms, reject
 DOMAIN-SUFFIX,rest.wildstar-online.com, reject
 DOMAIN-SUFFIX,retargeting.newsmanapp.com, reject
 DOMAIN-SUFFIX,rg-3tn.pages.dev, reject
+DOMAIN-SUFFIX,rp.mustreadnew.com, reject
 DOMAIN-SUFFIX,rs.sinajs.cn, reject
 DOMAIN-SUFFIX,rt.flix360.com, reject
 DOMAIN-SUFFIX,rtb.prod.carbonatixaudio.com, reject
@@ -3774,7 +3822,6 @@ DOMAIN-SUFFIX,stats.pushloop.io, reject
 DOMAIN-SUFFIX,stats.sa-as.com, reject
 DOMAIN-SUFFIX,stats.sawlive.tv, reject
 DOMAIN-SUFFIX,stats.screenresolution.org, reject
-DOMAIN-SUFFIX,stats.sender.net, reject
 DOMAIN-SUFFIX,stats.senty.com.au, reject
 DOMAIN-SUFFIX,stats.shopify.com, reject
 DOMAIN-SUFFIX,stats.slashed.cloud, reject
@@ -3978,6 +4025,7 @@ DOMAIN-SUFFIX,tracker.idocdn.com, reject
 DOMAIN-SUFFIX,tracker.jkstremum.xyz, reject
 DOMAIN-SUFFIX,tracker.keywordintent.com, reject
 DOMAIN-SUFFIX,tracker.marinsoftware.com, reject
+DOMAIN-SUFFIX,tracker.metricool.com, reject
 DOMAIN-SUFFIX,tracker.mrpfd.com, reject
 DOMAIN-SUFFIX,tracker.myth.dev, reject
 DOMAIN-SUFFIX,tracker.myyschool.xyz, reject
@@ -4117,6 +4165,7 @@ DOMAIN-SUFFIX,web-beacon.starii-rover.com, reject
 DOMAIN-SUFFIX,web-tracker.smsbump.com, reject
 DOMAIN-SUFFIX,web-vitals-script.leaderint.workers.dev, reject
 DOMAIN-SUFFIX,web1.51.la, reject
+DOMAIN-SUFFIX,webevents.kayzen.io, reject
 DOMAIN-SUFFIX,websdk.appsflyer.com, reject
 DOMAIN-SUFFIX,websdk.appsflyersdk.com, reject
 DOMAIN-SUFFIX,webservices.websitepros.com, reject
@@ -4214,6 +4263,7 @@ DOMAIN-SUFFIX,d2lxqodqbpy7c2.cloudfront.net, reject
 DOMAIN-SUFFIX,d2lyx5ly60ksu3.cloudfront.net, reject
 DOMAIN-SUFFIX,d2o5idwacg3gyw.cloudfront.net, reject
 DOMAIN-SUFFIX,d2o67tzzxkqap2.cloudfront.net, reject
+DOMAIN-SUFFIX,d2o9p5vky89u4e.cloudfront.net, reject
 DOMAIN-SUFFIX,d2oh4tlt9mrke9.cloudfront.net, reject
 DOMAIN-SUFFIX,d2pozfvrp52dk4.cloudfront.net, reject
 DOMAIN-SUFFIX,d2pt12ct4kmq21.cloudfront.net, reject
@@ -4887,6 +4937,7 @@ DOMAIN-SUFFIX,g-stats.openhost.es, reject
 DOMAIN-SUFFIX,madrid.report.botm.transparentedge.io, reject
 DOMAIN-SUFFIX,marker.konograma.com, reject
 DOMAIN-SUFFIX,mat.socy.es, reject
+DOMAIN-SUFFIX,met.seriesapi.co, reject
 DOMAIN-SUFFIX,pub.servidoresge.com, reject
 DOMAIN-SUFFIX,rt.cdnmedia.tv, reject
 DOMAIN-SUFFIX,segment.lalr.co, reject
@@ -4917,7 +4968,6 @@ DOMAIN-SUFFIX,analytics.kkb.com.tr, reject
 DOMAIN-SUFFIX,analytics.qushad.com, reject
 DOMAIN-SUFFIX,analytics.ticimax.cloud, reject
 DOMAIN-SUFFIX,c.keltis.com, reject
-DOMAIN-SUFFIX,collector.wawlabs.com, reject
 DOMAIN-SUFFIX,log.collectaction.com, reject
 DOMAIN-SUFFIX,sayac.kapital.com.tr, reject
 DOMAIN-SUFFIX,statistics.daktilo.com, reject
@@ -4925,6 +4975,7 @@ DOMAIN-SUFFIX,stats.vidyome.com, reject
 DOMAIN-SUFFIX,track.livasoft.com.tr, reject
 DOMAIN-SUFFIX,tracker.adcluster.com.tr, reject
 DOMAIN-SUFFIX,traffic.wdc.center, reject
+DOMAIN-SUFFIX,wa.wawlabs.com, reject
 DOMAIN-SUFFIX,informers.sinoptik.ua, reject
 DOMAIN-SUFFIX,tracker.multisearch.io, reject
 DOMAIN-SUFFIX,tracker.prom.ua, reject
@@ -4963,7 +5014,7 @@ DOMAIN-SUFFIX,amplitude.chess.com, reject
 DOMAIN-SUFFIX,ampltd.medal.tv, reject
 DOMAIN-SUFFIX,ampltd.top.gg, reject
 DOMAIN-SUFFIX,ampltd2.medal.tv, reject
-DOMAIN-SUFFIX,anal.billingserv.com, reject
+DOMAIN-SUFFIX,anal.baseserv.com, reject
 DOMAIN-SUFFIX,anal.doubledouble.top, reject
 DOMAIN-SUFFIX,analytics-batch.blitz.gg, reject
 DOMAIN-SUFFIX,analytics-dataplane.invideo.io, reject
@@ -5069,6 +5120,7 @@ DOMAIN-SUFFIX,c.wort-suche.com, reject
 DOMAIN-SUFFIX,c.xbox.com, reject
 DOMAIN-SUFFIX,cactus.joybuy.com, reject
 DOMAIN-SUFFIX,cdapi.collegedunia.com, reject
+DOMAIN-SUFFIX,cdn.eaec.fpfis.tech.ec.europa.eu, reject
 DOMAIN-SUFFIX,chloro.trip.com, reject
 DOMAIN-SUFFIX,chronicle.medal.tv, reject
 DOMAIN-SUFFIX,cl.canva.com, reject
@@ -5141,6 +5193,7 @@ DOMAIN-SUFFIX,d712.theinformation.com, reject
 DOMAIN-SUFFIX,dabu.askmediagroup.com, reject
 DOMAIN-SUFFIX,data.allstate.com, reject
 DOMAIN-SUFFIX,data.barry-callebaut.com, reject
+DOMAIN-SUFFIX,data.debugbear.com, reject
 DOMAIN-SUFFIX,data.guide.photobucket.com, reject
 DOMAIN-SUFFIX,data.jerkmate.com, reject
 DOMAIN-SUFFIX,data.torry.io, reject
@@ -5345,6 +5398,7 @@ DOMAIN-SUFFIX,metis.truecaller.com, reject
 DOMAIN-SUFFIX,metrics.audius.co, reject
 DOMAIN-SUFFIX,metrics.bangbros.com, reject
 DOMAIN-SUFFIX,metrics.camsoda.com, reject
+DOMAIN-SUFFIX,metrics.documentfoundation.org, reject
 DOMAIN-SUFFIX,metrics.freemake.com, reject
 DOMAIN-SUFFIX,metrics.hackerrank.com, reject
 DOMAIN-SUFFIX,metrics.hyperliquid.xyz, reject
@@ -5371,6 +5425,7 @@ DOMAIN-SUFFIX,mr.homedepot.ca, reject
 DOMAIN-SUFFIX,mstm.motorsport.com, reject
 DOMAIN-SUFFIX,mtg.macpaw.com, reject
 DOMAIN-SUFFIX,mtm.bondagevalley.cc, reject
+DOMAIN-SUFFIX,mtrics.cdc.gov, reject
 DOMAIN-SUFFIX,mx.eneba.com, reject
 DOMAIN-SUFFIX,na.groupondata.com, reject
 DOMAIN-SUFFIX,nasi.etherscan.com, reject
@@ -5405,6 +5460,7 @@ DOMAIN-SUFFIX,pac.thesun.co.uk, reject
 DOMAIN-SUFFIX,pac.thetimes.com, reject
 DOMAIN-SUFFIX,papi.stylar.ai, reject
 DOMAIN-SUFFIX,pappagallu.onefootball.com, reject
+DOMAIN-SUFFIX,pbc.barrons.com, reject
 DOMAIN-SUFFIX,pcp.coupert.com, reject
 DOMAIN-SUFFIX,pepin.padlet.com, reject
 DOMAIN-SUFFIX,perf.mouser.com, reject
@@ -5445,6 +5501,7 @@ DOMAIN-SUFFIX,pm.dailykos.com, reject
 DOMAIN-SUFFIX,pm.geniusmonkey.com, reject
 DOMAIN-SUFFIX,prairiedog.hashnode.com, reject
 DOMAIN-SUFFIX,privacy-api.9gag.com, reject
+DOMAIN-SUFFIX,privacy.reverso.net, reject
 DOMAIN-SUFFIX,privacyfriendly.netlify.app, reject
 DOMAIN-SUFFIX,private.wccftech.com, reject
 DOMAIN-SUFFIX,prod-events.nykaa.com, reject
@@ -5476,6 +5533,7 @@ DOMAIN-SUFFIX,relay.fiverr.com, reject
 DOMAIN-SUFFIX,reports.tunein.com, reject
 DOMAIN-SUFFIX,rfk.biglots.com, reject
 DOMAIN-SUFFIX,ring.staticmoly.me, reject
+DOMAIN-SUFFIX,roas-service.store-services-prod.remarkable.com, reject
 DOMAIN-SUFFIX,rps-p2.rockpapershotgun.com, reject
 DOMAIN-SUFFIX,rps-uk.rockpapershotgun.com, reject
 DOMAIN-SUFFIX,rs.mail.ru, reject
@@ -5489,6 +5547,7 @@ DOMAIN-SUFFIX,rta2.metro.co.uk, reject
 DOMAIN-SUFFIX,rta2.newzit.com, reject
 DOMAIN-SUFFIX,rtds.progressive.com, reject
 DOMAIN-SUFFIX,rum.api.intuit.com, reject
+DOMAIN-SUFFIX,rum.battle.net, reject
 DOMAIN-SUFFIX,rum.cdnpure.com, reject
 DOMAIN-SUFFIX,rum.condenastdigital.com, reject
 DOMAIN-SUFFIX,rvo-cohesion.healthline.com, reject
@@ -5507,6 +5566,7 @@ DOMAIN-SUFFIX,sid.nordstrom.com, reject
 DOMAIN-SUFFIX,sjc.cloud.optable.co, reject
 DOMAIN-SUFFIX,slipstream.skyscanner.net, reject
 DOMAIN-SUFFIX,smetrics.couponcabin.com, reject
+DOMAIN-SUFFIX,smetrics.inova.org, reject
 DOMAIN-SUFFIX,smetrics.ralphlauren.com, reject
 DOMAIN-SUFFIX,smetrics.vanguard.com, reject
 DOMAIN-SUFFIX,sofire.terabox.app, reject
@@ -5602,11 +5662,13 @@ DOMAIN-SUFFIX,t.wayfair.com, reject
 DOMAIN-SUFFIX,t.y8.com, reject
 DOMAIN-SUFFIX,t2.hulu.com, reject
 DOMAIN-SUFFIX,t810.ctpost.com, reject
+DOMAIN-SUFFIX,tagdelivery.mayoclinic.org, reject
 DOMAIN-SUFFIX,tagger.ope.scmp.com, reject
 DOMAIN-SUFFIX,tagging.steelseries.com, reject
 DOMAIN-SUFFIX,tags-event.woolworths.co.nz, reject
 DOMAIN-SUFFIX,tags.air1.com, reject
 DOMAIN-SUFFIX,tags.aljazeera.com, reject
+DOMAIN-SUFFIX,tags.barrons.com, reject
 DOMAIN-SUFFIX,tags.johnlewis.com, reject
 DOMAIN-SUFFIX,tags.klove.com, reject
 DOMAIN-SUFFIX,tags.stepstone.com, reject
@@ -5722,6 +5784,7 @@ DOMAIN-SUFFIX,wa.childrensplace.com, reject
 DOMAIN-SUFFIX,wa.gmx.co.uk, reject
 DOMAIN-SUFFIX,wa.gymboree.com, reject
 DOMAIN-SUFFIX,wa.pjplace.com, reject
+DOMAIN-SUFFIX,wa.slideshare.net, reject
 DOMAIN-SUFFIX,wa.sugarandjade.com, reject
 DOMAIN-SUFFIX,wal.wolfram.com, reject
 DOMAIN-SUFFIX,wapn1.flosports.tv, reject
@@ -41525,6 +41588,7 @@ DOMAIN-SUFFIX,t.wayfair.de, reject
 DOMAIN-SUFFIX,t2.aboutyou.de, reject
 DOMAIN-SUFFIX,tagm.eduscho.at, reject
 DOMAIN-SUFFIX,tapi.kaufda.de, reject
+DOMAIN-SUFFIX,telemetry.portal.voltdeutschland.org, reject
 DOMAIN-SUFFIX,tgw.gmx.ch, reject
 DOMAIN-SUFFIX,tgw.gmx.net, reject
 DOMAIN-SUFFIX,tgw.web.de, reject
@@ -42521,6 +42585,7 @@ DOMAIN-SUFFIX,vstat.rtr-vesti.ru, reject
 DOMAIN-SUFFIX,xray.mail.ru, reject
 DOMAIN-SUFFIX,yast.rutube.ru, reject
 DOMAIN-SUFFIX,harvester.cms.markiza.sk, reject
+DOMAIN-SUFFIX,analitika.derp.si, reject
 DOMAIN-SUFFIX,go-usertrack-importer.pub.24ur.si, reject
 DOMAIN-SUFFIX,tracker.azet.sk, reject
 DOMAIN-SUFFIX,analytics.bolavip.com, reject
