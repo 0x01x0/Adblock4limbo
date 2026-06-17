@@ -1,9 +1,9 @@
 ## [Adblock Plus 2.0]
-## ! Version: 202606170137
+## ! Version: 202606170147
 ## ! Title: EasyList
-## ! Last modified: 17 Jun 2026 01:37 UTC
+## ! Last modified: 17 Jun 2026 01:47 UTC
 ## ! Expires: 4 days (update frequency)
-## ! Commit: 6936f0c7ca3a71931aed336e5ce90db8be91aa32
+## ! Commit: 674958683b35ff36ee8552c3d358468f6db9fea8
 ## ! *** easylist:template_header.txt ***
 ## ! 
 ## ! Please report any unblocked adverts or problems
@@ -13425,6 +13425,7 @@ DOMAIN-SUFFIX,fiddedzakkeu.qpon, reject
 DOMAIN-SUFFIX,fiddlestructureparadise.com, reject
 DOMAIN-SUFFIX,fiddleyhigdon.com, reject
 DOMAIN-SUFFIX,fiddlydruxy.qpon, reject
+DOMAIN-SUFFIX,fideismfunning.cfd, reject
 DOMAIN-SUFFIX,fidelitygenerationsmistletoe.com, reject
 DOMAIN-SUFFIX,fidessamarine.com, reject
 DOMAIN-SUFFIX,fidgedimine.qpon, reject
